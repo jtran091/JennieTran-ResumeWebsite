@@ -1,6 +1,9 @@
 
-# Welcome to LearnCS8 Resume Website
+# Welcome to Jennie Tran's Resume Website
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+This website provides an insight into my life! It has a bio that explains my background and what kind of person I am.
+This website also has sections such as:
+-Experience
+-Education
+-Portfolio
+![Preview of Jennie Tran's Resume Website](img/websitescreenshot.jpg)
