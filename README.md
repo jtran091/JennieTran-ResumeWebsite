@@ -6,4 +6,4 @@ This website also has sections such as:
 -Experience
 -Education
 -Portfolio
-![Preview of Jennie Tran's Resume Website](img/websitescreenshot.jpg)
+![Preview of Jennie Tran's Resume Website](img/websitescreenshot.JPG)
